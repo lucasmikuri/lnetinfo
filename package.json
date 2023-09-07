@@ -4,10 +4,7 @@
   "description": "Lnet Info - Empresa de Tecnologia",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build", 
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
@@ -17,6 +14,6 @@
     "react-dom": "^18.2.0"
   },
     "engines": {
-    "node": "16.x"
+    "node": "18.x"
   }
 }
