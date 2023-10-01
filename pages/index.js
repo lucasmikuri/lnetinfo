@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      Bem vindo Lucas Mikuri<strong>Vercel!</strong>
+      Sendo processado no Lucas Mikuri<strong>Vercel!</strong>
     </div>
   );
 }
