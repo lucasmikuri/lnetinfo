@@ -1,7 +1,8 @@
 function Home() {
   return (
     <div>
-      Acredita que tudo dará certo! <strong>Vercel!</strong>
+      Raphael é um cara muito inteligente e bonito{" "}
+      <strong>parece com o pai</strong>
     </div>
   );
 }
