@@ -1,0 +1,5 @@
+services:
+  db:
+    image: "postgress:16.0-alpine3.18"
+    environment:
+    POSTGRESS_PASSWORD: "local_password"
