@@ -1,4 +1,3 @@
-import { Query } from "pg";
 import database from "infra/database.js";
 
 async function status(request, response) {
